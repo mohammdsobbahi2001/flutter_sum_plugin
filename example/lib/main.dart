@@ -14,11 +14,13 @@ class ExampleApp extends StatelessWidget {
 }
 
 class SumPage extends StatefulWidget {
+  const SumPage({super.key});
+
   @override
-  _SumPageState createState() => _SumPageState();
+  SumPageState createState() => SumPageState();
 }
 
-class _SumPageState extends State<SumPage> {
+class SumPageState extends State<SumPage> {
   final aController = TextEditingController(text: '3');
   final bController = TextEditingController(text: '4');
   String? resultText;
