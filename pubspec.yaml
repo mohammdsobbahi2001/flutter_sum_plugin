@@ -1,7 +1,7 @@
 name: flutter_sum_plugin
 description: A simple Flutter plugin that sums two integers on native platforms.
 version: 0.0.1
-homepage: https://example.com
+homepage: https://github.com/yourgithub/flutter_sum_plugin
 repository: https://github.com/yourgithub/flutter_sum_plugin
 documentation: https://github.com/yourgithub/flutter_sum_plugin#readme
 
