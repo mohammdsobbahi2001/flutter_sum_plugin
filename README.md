@@ -13,7 +13,7 @@ Add to `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_sum_plugin: ^0.1.0
+  flutter_sum_plugin: ^0.0.1
 ```
 
 For local testing (before publishing):
